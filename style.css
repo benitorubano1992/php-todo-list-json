@@ -1,0 +1,15 @@
+.line {
+    text-decoration: line-through;
+}
+
+span {
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
